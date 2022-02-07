@@ -1,0 +1,16 @@
+[
+  {
+    "PROPER_NAME": "Chanlle",
+    "NAMES": [
+      "chanlle"
+    ],
+    "DESCRIPTION": "Chanlling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically Evoked to make room."
+  },
+  {
+    "PROPER_NAME": "Egsost",
+    "NAMES": [
+      "egsost"
+    ],
+    "DESCRIPTION": "Removed until end of combat."
+  }
+]
