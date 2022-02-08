@@ -12,5 +12,12 @@
       "egsost"
     ],
     "DESCRIPTION": "Removed until end of combat."
+  },
+  {
+    "PROPER_NAME": "Lighting",
+    "NAMES": [
+      "lighting"
+    ],
+    "DESCRIPTION": "Orb: Deals damage to random enemies."
   }
 ]

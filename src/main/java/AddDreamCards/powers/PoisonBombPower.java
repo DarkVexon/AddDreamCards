@@ -16,10 +16,10 @@ import com.megacrit.cardcrawl.powers.PoisonPower;
 import static AddDreamCards.DreamCards.makeID;
 
 public class PoisonBombPower extends TwoAmountPower implements NonStackablePower {
-    public static String ID = makeID(PoisonBombPower.class.getSimpleName());
+    public static String ID2 = makeID(PoisonBombPower.class.getSimpleName());
 
     public PoisonBombPower(int amount) {
-        this.ID = ID;
+        this.ID = ID2;
         this.isTurnBased = true;
         this.name = "Poison Bomb";
         this.owner = AbstractDungeon.player;

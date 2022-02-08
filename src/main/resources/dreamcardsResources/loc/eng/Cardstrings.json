@@ -1,14 +1,14 @@
 {
   "${ModID}:SowrdThrow": {
-    "NAME": "Sowrd Throw",
-    "DESCRIPTION": "Deal 14 daming to ALL enames. NL You cannot play more atacks this turn."
+    "NAME": "Sowrd throw",
+    "DESCRIPTION": "Deal 14 daming to ALL enames. NL You cannot play more atacks this turn"
   },
   "${ModID}:PoisonBomb": {
-    "NAME": "Poison Bomb",
-    "DESCRIPTION": "At the end of 3 turns, apply 10 Poison to ALL enames."
+    "NAME": "Poison bomb",
+    "DESCRIPTION": "At the end of 3 turns, apply 10 poison to ALL enames"
   },
   "${ModID}:LightingSpin": {
-    "NAME": "Lighting Spin",
-    "DESCRIPTION": "dreamcards:Chanlle 3 Lightning. NL Gain 14 Focus. NL Lightning now hits ALL enames. NL dreamcards:Egsost."
+    "NAME": "Lighting spin",
+    "DESCRIPTION": "dreamcards:Chanlle 3 dreamcards:Lighting. NL Gain 14 Focus. NL dreamcards:Lighting now hits ALL enames NL dreamcards:Egsost"
   }
 }

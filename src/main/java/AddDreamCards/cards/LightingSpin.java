@@ -41,7 +41,7 @@ public class LightingSpin extends CustomCard {
     public LightingSpin() {
         super(ID, NAME, IMG, COST, DESCRIPTION, TYPE, COLOR, RARITY, TARGET);
         baseMagicNumber = magicNumber = 3;
-        baseDamage = 14;
+        baseDamage = damage = 14;
         exhaust = true;
     }
 
